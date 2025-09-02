@@ -1,0 +1,44 @@
+great but you can do better.
+you can enhanced ui, style, colors, icons, widgets etc...
+give a better stlye.
+
+then please add:
+Add comprehensive reporting and analytics dashboard
+
+
+and does it:
+support multi-Language?
+
+does it give me the chance to upload pictures in general? for example if i was in a restaurant that i liked then take a pic of that and add it. but those pics should be separate from the receipts images.
+
+
+does it automatically fetch the address if i add the name and the city? it should fetch automatically using google.
+and if find more then one place with same name in same city it should allow user to select the correct one.
+
+does it have custom satisfactions badge?
+it should give the possibility to select the satisfaction of that expense: maybe something like no, mid, ok, wonderfull...you know it, maybe imporoving with icons and colors as well.
+
+
+does it give the possibility to user to customize layout?
+maybe adding or removing widgets, move them, resize them, change colors etc...
+
+we should even create a default layout, so user can Always back to custom layout
+
+
+does the app have any kind of calculators?:
+saving calculator, reetirement caluculatero, expense calculator and so on…
+
+
+does it allow to add incoming as well?
+
+
+i need the possibility to tell if an expence is a fix expences or not.
+maybe 1st time we ad an expence the app should ask if fix or not, or even better it should have a toggler for select if fix expences or not. but only first time. then when i add that expence another time the app already knows that it is a fix or not expence
+and we should create widget for fix not fix comparison chart and all other possible usefull charts regard fix/no fix.
+
+
+we should add the possibility to select a custom data range as weel for when filtering/study the expences
+we could have day, week, currentm month, last month, 3 months, last year, ytd and custom picker… you know what to do…
+
+
+does it have a "Sheperd" that guide us to understand what app does and how to use it?
